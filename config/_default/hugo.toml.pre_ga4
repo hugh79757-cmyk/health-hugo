@@ -1,0 +1,21 @@
+baseURL = "https://laptop.informationhot.kr/"
+languageCode = "ko"
+title = "노트북 추천 가이드"
+theme = "blowfish"
+defaultContentLanguage = "ko"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 12
+summaryLength = 150
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

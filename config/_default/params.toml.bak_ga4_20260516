@@ -1,0 +1,50 @@
+defaultBackgroundImage = "/img/background.svg"
+
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = false
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = false
+  relatedContentLimit = 5
+  showTaxonomies = true
+  showWordCount = false
+  showComments = false
+  showHero = true
+  heroStyle = "basic"
+
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showCards = true
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = true
+

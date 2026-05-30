@@ -1,0 +1,43 @@
+baseURL = "https://health.informationhot.kr/"
+languageCode = "ko"
+title = "건강기능식품 추천 가이드"
+theme = "blowfish"
+defaultContentLanguage = "ko"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 12
+summaryLength = 150
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+[related]
+  threshold = 0
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "series"
+    weight = 50
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+timeZone = "Asia/Seoul"

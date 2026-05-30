@@ -1,0 +1,43 @@
+baseURL: "https://baby.informationhot.kr/"
+languageCode: "ko"
+title: "유아용품 추천 가이드"
+theme: "blowfish"
+defaultContentLanguage: "ko"
+enableRobotsTXT: true
+pagination:
+  pagerSize: 12
+summaryLength: 150
+taxonomies:
+  tag: "tags"
+  category: "categories"
+params:
+  colorScheme: "ocean"
+  defaultAppearance: "light"
+  autoSwitchAppearance: true
+  header:
+    disableLanguageSwitcher: true
+    layout: "basic"
+    showTitle: true
+  footer:
+    showCopyright: true
+    showThemeAttribution: false
+    showScrollToTop: true
+  homepage:
+    layout: "profile"
+    showRecent: true
+    showRecentItems: 12
+  article:
+    showWordCount: false
+    showReadingTime: false
+    showDate: true
+    showAuthor: false
+    showBreadcrumbs: true
+    showTableOfContents: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+deploy:
+  branch: main
+  commit_dirty: true
+  method: wrangler
