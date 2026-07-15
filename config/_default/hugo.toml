@@ -41,3 +41,4 @@ summaryLength = 150
     name = "date"
     weight = 10
 timeZone = "Asia/Seoul"
+themesDir = "/Users/twinssn/Projects/shared-themes"

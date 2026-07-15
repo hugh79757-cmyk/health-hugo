@@ -2,5 +2,8 @@
   [goldmark.renderer]
     unsafe = true
 
+  [goldmark.extensions]
+    strikethrough = false
+
 [highlight]
   noClasses = false

@@ -45,42 +45,40 @@
 
       <div class="min-w-0 min-h-0 max-w-fit">
         {{ partial "series/series.html" . }}
-        <div class="article-content max-w-prose mb-20">
-          <!-- 본문 상단 광고 -->
-          <div class="ad-top" style="margin:1em 0 2em 0;text-align:center;">
-            <ins class="adsbygoogle"
-                 style="display:block"
-                 data-ad-client="ca-pub-6677996696534146"
-                 data-ad-slot="2195212287"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-          </div>
 
-          {{ $content := .Content }}
-          {{ $parts := split $content "<h2" }}
-          {{ if gt (len $parts) 1 }}
-            {{ range $i, $part := $parts }}
-              {{ if eq $i 0 }}
-                {{ $part | safeHTML }}
-              {{ else }}
-                {{ if or (eq $i 2) (eq $i 4) }}
-                  <div class="ad-in-article" style="margin:2em 0;text-align:center;">
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-6677996696534146"
-                         data-ad-slot="2195212287"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-                  </div>
-                {{ end }}
-                {{ printf "<h2%s" $part | safeHTML }}
-              {{ end }}
-            {{ end }}
+        {{/* 광고 개수 조건 분기 */}}
+        {{ $adCount := 0 }}
+        {{ if ge .WordCount 800 }}
+          {{ $section := .Section }}
+          {{ $highValueSections := slice "cars" "finance" "insurance" "crypto" "loans" "health" }}
+          {{ if in $highValueSections $section }}
+            {{ $adCount = 3 }}
           {{ else }}
-            {{ .Content }}
+            {{ $adCount = 2 }}
           {{ end }}
+        {{ end }}
+
+        {{/* 마커 기반 광고 삽입 (AD3 → AD2 역순, NO split/h2) */}}
+        {{ $content := .Content }}
+        {{ if ge $adCount 1 }}
+          {{ $content = replace $content "</p>" "</p><!--AD1-->" 1 }}
+        {{ end }}
+        {{ if ge $adCount 2 }}
+          {{ $content = replace $content "<h2" "<!--AD3--><h2" 3 }}
+          {{ $content = replace $content "<!--AD3-->" "<!--AD2-->" 1 }}
+        {{ end }}
+        {{ if eq $adCount 2 }}
+          {{ $content = replace $content "<!--AD3-->" "" 1 }}
+        {{ end }}
+        {{ $content = printf "%s%s" $content (partial "adsense/leaderboard.html" .) }}
+        {{ $content = replace $content "<!--AD1-->" (partial "adsense/in-article.html" .) | safeHTML }}
+        {{ $content = replace $content "<!--AD2-->" (partial "adsense/in-article.html" .) | safeHTML }}
+        {{ if eq $adCount 3 }}
+          {{ $content = replace $content "<!--AD3-->" (partial "adsense/in-article.html" .) | safeHTML }}
+        {{ end }}
+
+        <div class="article-content max-w-prose mb-20">
+          {{ $content }}
         </div>
         {{ partial "series/series-closed.html" . }}
         {{ partial "sharing-links.html" . }}

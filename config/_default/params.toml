@@ -1,9 +1,9 @@
-googleAnalytics = "G-CWNZR6DPP5"
+googleAnalytics = "G-G5KS0DE6HL"
 defaultBackgroundImage = "/img/background.svg"
 
 colorScheme = "ocean"
 defaultAppearance = "light"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 
@@ -49,3 +49,9 @@ enableCodeCopy = false
   showTermCount = true
   showBreadcrumbs = true
 
+
+[adsense]
+  clientID = "ca-pub-6677996696534146"
+  inArticleSlot = "2195212287"
+  leaderboardSlot = "2195212287"
+  mobileStickySlot = "2195212287"
