@@ -7,8 +7,8 @@ slug: "1위-고려은단-비타민c-1000-vs-뉴메이트-2026년-7월-가성비-
 categories: ['추천']
 tags: ['동국제약', '고려은단', 'NUMATE', '나우푸드', '이앤에스']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/63626fde2fd3854b.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/63626fde2fd3854b.webp"
 ---
 {{< lead >}}
 2026년 7월, 비타민C 영양제를 고르다 보면 브랜드도 다양하고 가격도 제각각이라 어떤 제품을 선택해야 할지 고민이 많으실 겁니다. 특히 고려은단은 오랜 역사를 가진 대표 브랜드지만, 최근에는 뉴메이트나 나우푸드 같은 해외 브랜드도 인기를 끌고 있어 비교가 더 어렵게 느껴집니다.  실제 판매 순위와 가격, 성분 구성을 꼼꼼히 분석해 여러분의 선택을 도와드리겠습니다.

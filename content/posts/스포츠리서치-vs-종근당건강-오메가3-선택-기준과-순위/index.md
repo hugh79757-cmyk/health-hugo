@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 종근당건강 알티지 오메가3 듀얼 — 가격 대비 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="종근당건강 알티지 오메가3 듀얼" caption="종근당건강의 대표 제품으로 <strong>9,500원</strong>이라는 가격이 가장 큰 장점입니다. rTG(알티지) 형태로 흡수율이 높아 매일 챙겨 먹기에 부담이 적습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3240d3405134e142.webp" alt="종근당건강 알티지 오메가3 듀얼" caption="종근당건강의 대표 제품으로 <strong>9,500원</strong>이라는 가격이 가장 큰 장점입니다. rTG(알티지) 형태로 흡수율이 높아 매일 챙겨 먹기에 부담이 적습니다." >}}
 하루 1캡슐로 간편하게 섭취할 수 있어 아침 식사 후 물 한잔과 함께 먹기 좋습니다. 로켓배송이 가능해 다음 날 바로 받아볼 수 있고, 누적 판매량이 많아 신뢰도가 높습니다.
 
 <strong>장점</strong>:
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 여에스더 초임계 알티지 오메가3 — 초임계 공정의 합리적 선택
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="여에스더 초임계 알티지 오메가3" caption="에스더포뮬러에서 만든 초임계 알티지 오메가3로, <strong>17,900원</strong>에 2박스(총 60정)를 구성할 수 있습니다. 초임계 공정을 적용해 산화 안정성이 높고, 저온에서 추출해 불순물이 적습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ed616ac140886718.webp" alt="여에스더 초임계 알티지 오메가3" caption="에스더포뮬러에서 만든 초임계 알티지 오메가3로, <strong>17,900원</strong>에 2박스(총 60정)를 구성할 수 있습니다. 초임계 공정을 적용해 산화 안정성이 높고, 저온에서 추출해 불순물이 적습니다." >}}
 1정당 1020mg 함량으로 하루 1캡슐 섭취로 충분합니다. 직장인이나 대학생처럼 바쁜 일상을 보내는 분이 휴대하며 먹기에 적합한 크기입니다. 일반배송이지만 쿠팡 내 구매자 평점이 높아 만족도가 검증된 제품입니다.
 
 <strong>장점</strong>:
@@ -81,7 +81,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 닥터린 초임계 알티지 오메가3 알파 — 로켓배송 초임계
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="닥터린 초임계 알티지 오메가3 알파" caption="닥터린에서 출시한 <strong>26,900원</strong>짜리 초임계 알티지 오메가3입니다. 30.21g(60캡슐)으로 약 1개월 분량(하루 2캡슐 기준)이며, 로켓배송으로 빠르게 받을 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/7aec5bbbaa3e98e9.webp" alt="닥터린 초임계 알티지 오메가3 알파" caption="닥터린에서 출시한 <strong>26,900원</strong>짜리 초임계 알티지 오메가3입니다. 30.21g(60캡슐)으로 약 1개월 분량(하루 2캡슐 기준)이며, 로켓배송으로 빠르게 받을 수 있습니다." >}}
 초임계 공정을 적용해 산패 걱정이 적고, rTG 형태로 체내 흡수율이 높습니다. 하루 2캡슐 섭취가 권장되며, 식사 후 물과 함께 복용하면 됩니다. 중장년층이나 평소 생선 섭취가 부족한 분에게 적합합니다.
 
 <strong>장점</strong>:
@@ -97,7 +97,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 스포츠리서치 1040mg 오메가-3 트리플 — 고함량 장기 복용용
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스포츠리서치 1040mg 오메가-3 트리플" caption="스포츠리서치는 미국에서 오랜 역사를 가진 오메가3 브랜드입니다. 이 제품은 <strong>31,610원</strong>에 120캡슐 대용량으로, 하루 1~2캡슐 섭취 시 2~4개월 분량을 한 번에 해결할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4a725eeb5f04668a.webp" alt="스포츠리서치 1040mg 오메가-3 트리플" caption="스포츠리서치는 미국에서 오랜 역사를 가진 오메가3 브랜드입니다. 이 제품은 <strong>31,610원</strong>에 120캡슐 대용량으로, 하루 1~2캡슐 섭취 시 2~4개월 분량을 한 번에 해결할 수 있습니다." >}}
 1040mg 함량(EPA+DHA 총합)으로 고함량을 원하는 분에게 적합합니다. TG(트리글리세리드) 형태지만 함량 대비 가격 효율이 높아 장기 복용자에게 인기가 많습니다. 쿠팡 순위 6위로 꾸준히 판매되고 있습니다.
 
 <strong>장점</strong>:
@@ -114,7 +114,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 프로메가 오메가3 트리플 — 프리미엄 트리플 스트렝스
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="프로메가 오메가3 트리플" caption="프로메가 브랜드의 트리플 스트렝스 제품으로 <strong>53,820원</strong>에 60캡슐(39.24g)입니다. '트리플 스트렝스'라는 이름처럼 일반 오메가3보다 3배 높은 함량을 자랑합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/91208e9b02421078.webp" alt="프로메가 오메가3 트리플" caption="프로메가 브랜드의 트리플 스트렝스 제품으로 <strong>53,820원</strong>에 60캡슐(39.24g)입니다. '트리플 스트렝스'라는 이름처럼 일반 오메가3보다 3배 높은 함량을 자랑합니다." >}}
 하루 1캡슐로 고함량 EPA와 DHA를 섭취할 수 있어, 운동을 즐기거나 혈행 관리를 원하는 30~50대에게 적합합니다. 로켓배송이 가능하고, 쿠팡 순위 10위로 꾸준히 수요가 있는 제품입니다.
 
 <strong>장점</strong>:

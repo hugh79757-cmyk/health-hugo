@@ -43,7 +43,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>1순위: 솔가 아연 50 (무료배송) — 하루 225원으로 실속 있게 챙기는 고함량 아연</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="솔가 아연 50" caption="솔가 아연 50" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ef6aabd157420db5.webp" alt="솔가 아연 50" caption="솔가 아연 50" >}}
 매일 한 알씩 꾸준히 아연을 챙기고 싶지만 가격 부담이 되는 분들에게 가장 합리적인 선택입니다. 1정에 50mg의 고함량 아연이 들어 있어 면역 관리가 필요한 시기에 집중적으로 복용하기 좋습니다. 100정 대용량이라 하루 1정 기준 100일 분량이며, 가격을 나누면 하루 약 225원 수준입니다. 근무 시간이 길어 영양제 챙기는 것조차 번거롭게 느껴지는 직장인이라면, 식사 후 물 한 잔과 함께 1정만 꺼내 먹으면 되니 부담이 적습니다. 정제 크기가 다소 큰 편이지만 삼키는 데 큰 불편은 없습니다. 무료배송으로 제공되며, 쿠팡 내에서도 누적 판매량이 높아 신뢰도가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6215299433&itemId=1184751&vendorItemId=3001141888&traceid=V0-153-391744534723b464&clickBeacon=2fd04960-7f1b-11f1-87f0-e67d84fdc79d%7E3&requestid=20260714093016686136484195&token=31850C%7CMIXED)
@@ -52,7 +52,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>2순위: 솔가 아연 50 (로켓배송) — 빠른 배송이 필요할 때</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="솔가 아연 50 로켓배송" caption="솔가 아연 50 로켓배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ef6aabd157420db5.webp" alt="솔가 아연 50 로켓배송" caption="솔가 아연 50 로켓배송" >}}
 내용물은 위의 무료배송 제품과 완전히 동일하지만, 로켓배송으로 다음 날 바로 받아볼 수 있다는 점이 가장 큰 차이입니다. 가격은 약 1,000원 더 비싸지만 급하게 필요하거나 쿠팡 와우 회원이라면 배송비를 고려했을 때 오히려 더 저렴하게 느껴질 수도 있습니다. 예를 들어 출장이나 여행을 앞두고 아연 영양제를 미처 준비하지 못한 상황이라면, 로켓배송 솔가 아연 50이 실질적인 해결책이 됩니다. 1일 1정 섭취 기준으로 하루 약 235원의 비용이 듭니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=1998367807&itemId=3401186224&vendorItemId=71387813110&traceid=V0-153-6804c5172ac120a0&clickBeacon=2fd04960-7f1b-11f1-ab1f-adeaf508f016%7E3&requestid=20260714093016686136484195&token=31850C%7CMIXED)
@@ -61,7 +61,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>3순위: 비타민마을 맘편한 면역튼튼 5중복합기능성 어린이 아연 젤리 — 아이와 함께 먹기 편한 젤리 타입</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="비타민마을 어린이 아연 젤리" caption="비타민마을 어린이 아연 젤리" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/dc486c832c89a181.webp" alt="비타민마을 어린이 아연 젤리" caption="비타민마을 어린이 아연 젤리" >}}
 유치원이나 학교에서 돌아온 아이가 간식처럼 씹어 먹을 수 있는 젤리 타입입니다. 정제를 잘 삼키지 못하는 어린이나, 알약 형태에 거부감이 있는 어른에게도 적합합니다. 5중 복합기능성이라는 점에서 아연 외에도 여러 영양소가 함께 담겨 있습니다. 1회 1포씩 개별 포장되어 있어 외출 시에도 간편하게 챙길 수 있습니다. 저녁에 아이 숙제를 봐주면서 "오늘 영양제 먹었니?" 하고 물어볼 필요 없이, 젤리 하나 건네면 아이가 스스로 챙겨 먹는 모습을 볼 수 있습니다. 다만 정제에 비해 1회분당 가격이 다소 높은 편이고, 함량이 구체적으로 표기되어 있지 않아 성분 확인이 필요합니다. 하루 1회 섭취 기준 15일분이 3개 세트로 구성되어 있어 약 한 달 반 분량입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=5415530276&itemId=28412969476&vendorItemId=94606677254&traceid=V0-153-0a50d2640d71b310&clickBeacon=4b406010-5c82-11f1-a066-012b4b824225%7E3&requestid=20260531085010207155442034&token=31850C%7CMIXED)
@@ -70,7 +70,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>4순위: 장인정신에브리데이 면역플러스 스틱 — 바쁜 아침에 한 포로 간편하게</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="장인정신에브리데이 면역플러스 스틱" caption="장인정신에브리데이 면역플러스 스틱" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4b6823aaebf360f5.webp" alt="장인정신에브리데이 면역플러스 스틱" caption="장인정신에브리데이 면역플러스 스틱" >}}
 출근길이나 외근이 잦은 분들에게 특히 추천하는 스틱형 제품입니다. 아연뿐만 아니라 여러 면역 관련 성분이 복합적으로 들어 있어, 따로 여러 제품을 챙기지 않아도 된다는 장점이 있습니다. 1포당 10ml 용량으로 물에 타 먹거나 그대로 섭취할 수 있습니다. 하루 1포만 챙기면 되므로, 아침에 서둘러 나가야 하는 직장인이나 등교하는 학생에게 부담이 적습니다. 로켓배송이 가능해 급하게 구매해야 하는 상황에서도 빠르게 받을 수 있습니다. 다만 정제형에 비해 가격대가 높아 장기 복용 시 부담이 될 수 있습니다. 30스틱 한 달 분량입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7490632964&itemId=18798590659&vendorItemId=80077523762&traceid=V0-153-b33a38187fff014c&clickBeacon=4b406010-5c82-11f1-80bf-eafad6e92000%7E3&requestid=20260531085010207155442034&token=31850C%7CMIXED)
@@ -79,7 +79,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>5순위: 포라이프 트랜스퍼 팩터 플러스 아연 — 면역 연구 기반의 프리미엄 선택</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="포라이프 트랜스퍼 팩터 플러스 아연" caption="포라이프 트랜스퍼 팩터 플러스 아연" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ae97483fc19498a9.webp" alt="포라이프 트랜스퍼 팩터 플러스 아연" caption="포라이프 트랜스퍼 팩터 플러스 아연" >}}
 면역 건강에 관심이 많고, 보다 체계적인 접근을 원하는 분들을 위한 제품입니다. 4LIFE사의 독자적인 트랜스퍼 팩터(Transfer Factor) 기술이 적용되어 일반 아연 제품과는 다른 접근법을 취하고 있습니다. 90정으로 약 3개월 분량이며, 하루에 1~3정을 섭취합니다. 면역력 유지에 특히 신경을 쓰는 50대 이상의 부모님이나, 만성 피로로 고민하는 중장년층에게 적합합니다. 다만 가격이 6만 원대로 다른 제품에 비해 높은 편이라 예산에 여유가 있을 때 고려해볼 만합니다. 무료배송이며, 쿠팡에서도 꾸준히 수요가 있는 제품입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7318280705&itemId=28154136618&vendorItemId=95028759519&traceid=V0-153-3bae8580933d2b3a&clickBeacon=2fd04960-7f1b-11f1-8e6b-2f21cf7135e5%7E3&requestid=20260714093016686136484195&token=31850C%7CMIXED)

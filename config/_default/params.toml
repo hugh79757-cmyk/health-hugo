@@ -50,8 +50,7 @@ enableCodeCopy = false
   showBreadcrumbs = true
 
 
-[adsense]
-  clientID = "ca-pub-6677996696534146"
+[advertisement]
+  adsense = "ca-pub-6677996696534146"
   inArticleSlot = "2195212287"
   leaderboardSlot = "2195212287"
-  mobileStickySlot = "2195212287"

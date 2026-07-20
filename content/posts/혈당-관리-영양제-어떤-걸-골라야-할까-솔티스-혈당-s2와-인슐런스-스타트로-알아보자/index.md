@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>일양약품 혈당건강 바나바리프 — 부담 없이 시작하는 첫 영양제</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="일양약품 혈당건강 바나바리프" caption="일양약품의 바나바리프 영양제는 바나바잎 추출물을 주성분으로 한 제품입니다. 11,600원이라는 부담 없는 가격으로 혈당 관리 영양제를 처음 접하는 분이나 가벼운 관리가 필요하신 분에게 적합합니다. 로켓배송이 가능해 빠르게 받아볼 수 있다는 점도 장점입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/85f0d414c59a66e0.webp" alt="일양약품 혈당건강 바나바리프" caption="일양약품의 바나바리프 영양제는 바나바잎 추출물을 주성분으로 한 제품입니다. 11,600원이라는 부담 없는 가격으로 혈당 관리 영양제를 처음 접하는 분이나 가벼운 관리가 필요하신 분에게 적합합니다. 로켓배송이 가능해 빠르게 받아볼 수 있다는 점도 장점입니다." >}}
 <strong>장점:</strong> 가격이 매우 저렴하고 부담 없이 시도할 수 있습니다.
 
 <strong>아쉬운 점:</strong> 성분 구성이 단순하고 세부 함량이나 복용 정수 정보가 명확하지 않아 구체적인 비교가 어렵습니다.
@@ -64,7 +64,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>솔티스 혈당 S2+콜레스테롤 — 혈당과 콜레스테롤을 함께 신경 쓰는 분에게</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="솔티스 혈당 S2+콜레스테롤" caption="솔티스 혈당 S2+콜레스테롤은 이름에서 알 수 있듯 혈당 관리와 함께 콜레스테롤 수치에도 관심이 있는 분을 위해 설계된 제품입니다. 1박스 95g으로 분말 형태일 가능성이 있으며, 29,700원이라는 합리적인 가격으로 두 가지 건강 관리를 동시에 시작할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2421b6179c27c1fd.webp" alt="솔티스 혈당 S2+콜레스테롤" caption="솔티스 혈당 S2+콜레스테롤은 이름에서 알 수 있듯 혈당 관리와 함께 콜레스테롤 수치에도 관심이 있는 분을 위해 설계된 제품입니다. 1박스 95g으로 분말 형태일 가능성이 있으며, 29,700원이라는 합리적인 가격으로 두 가지 건강 관리를 동시에 시작할 수 있습니다." >}}
 <strong>장점:</strong> 혈당과 콜레스테롤을 하나의 제품으로 신경 쓸 수 있어 편리합니다.
 
 <strong>아쉬운 점:</strong> 세부 성분 함량이나 복용 방법이 명확히 표기되지 않아 정확한 비교가 제한됩니다.
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>그린스토어 혈당엔 — 알 수 없는 성분 구성이라 신중한 선택 필요</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="그린스토어 혈당엔" caption="그린스토어 혈당엔은 32,000원, 무료배송 제품입니다. 제품명에 '혈당엔'이라는 표현 외에 구체적인 성분이나 함량 정보를 확인하기 어려워, 다른 제품과의 객관적 비교가 까다로운 편입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/411aa991a8d152b7.webp" alt="그린스토어 혈당엔" caption="그린스토어 혈당엔은 32,000원, 무료배송 제품입니다. 제품명에 '혈당엔'이라는 표현 외에 구체적인 성분이나 함량 정보를 확인하기 어려워, 다른 제품과의 객관적 비교가 까다로운 편입니다." >}}
 <strong>장점:</strong> 가격이 중간 정도로 부담스럽지 않습니다.
 
 <strong>아쉬운 점:</strong> 성분 정보가 명확하지 않아 어떤 원료가 얼마나 들어있는지 알 수 없어 선택에 신중함이 필요합니다.
@@ -90,7 +90,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>인슐런스 혈당케어 스타트 2000mg — 고용량으로 확실하게 관리하고 싶은 분</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="인슐런스 혈당케어 스타트" caption="인슐런스 혈당케어 스타트는 1회 2000mg의 고용량 혈당 관리 제품입니다. 1개에 30회분이 들어있고 3개 세트로 총 90회분을 제공합니다. 고용량인 만큼 하루 1포 섭취로 간편하게 관리할 수 있어 바쁜 현대인에게 적합합니다. 로켓배송으로 빠른 수령이 가능합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0466169dfafbd5e5.webp" alt="인슐런스 혈당케어 스타트" caption="인슐런스 혈당케어 스타트는 1회 2000mg의 고용량 혈당 관리 제품입니다. 1개에 30회분이 들어있고 3개 세트로 총 90회분을 제공합니다. 고용량인 만큼 하루 1포 섭취로 간편하게 관리할 수 있어 바쁜 현대인에게 적합합니다. 로켓배송으로 빠른 수령이 가능합니다." >}}
 <strong>장점:</strong> 고용량 2000mg으로 1일 1회 복용만으로 충분한 용량 확보. 총 90회분이라 장기 관리에 유리합니다.
 
 <strong>아쉬운 점:</strong> 74,980원으로 가격대가 있는 편이라 첫 구매 시 부담이 될 수 있습니다.
@@ -103,7 +103,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>약사개발 혈당관리 바나바잎 추출물 사과초모식초 당질컷팅제 셀렌 크롬 아연 — 종합 성분으로 한 번에 챙기고 싶은 분</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="약사개발 혈당관리 바나바잎" caption="약사개발 혈당관리 바나바잎" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a4460f91b95dbb9b.webp" alt="약사개발 혈당관리 바나바잎" caption="약사개발 혈당관리 바나바잎" >}}
 약사개발 혈당관리 바나바잎은 약사가 개발했다는 점을 강조하는 제품입니다. 바나바잎 추출물, 사과초모식초, 셀렌, 크롬, 아연 등 여러 성분이 한 번에 들어있어 당질 컷팅 효과와 함께 항산화, 미네랄 보충까지 노릴 수 있습니다. 60정 4박스로 총 240정, 112,600원입니다.
 
 <strong>장점:</strong> 다양한 기능성 성분을 복합적으로 섭취할 수 있어 종합 관리에 유리합니다.

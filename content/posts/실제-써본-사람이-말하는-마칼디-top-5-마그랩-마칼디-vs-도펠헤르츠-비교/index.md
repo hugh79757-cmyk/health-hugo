@@ -38,7 +38,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 마그랩 마칼디, 3개 — 하루 1정으로 간편한 종합 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="마그랩 마칼디" caption="쿠팡 랭킹 3위에 오른 마그랩 마칼디는 60정 3개 구성으로 총 180정을 제공합니다. 하루 1정 섭취 기준으로 약 6개월 분량이라 장기 복용을 고려하는 분들에게 실용적입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0d83a49f636b057b.webp" alt="마그랩 마칼디" caption="쿠팡 랭킹 3위에 오른 마그랩 마칼디는 60정 3개 구성으로 총 180정을 제공합니다. 하루 1정 섭취 기준으로 약 6개월 분량이라 장기 복용을 고려하는 분들에게 실용적입니다." >}}
 <strong>장점</strong>: 로켓배송으로 빠르게 받을 수 있고, 3개 구성이라 가격 대비 용량이 넉넉합니다. 네이버 최저가 14,500원보다 쿠팡 42,000원(3개)이 더 저렴하게 구매 가능합니다.
 
 <strong>아쉬운 점</strong>: 개별 성분 함량이 제품 표기에 상세히 기재되어 있지 않아, 정확한 칼슘/마그네슘 비율을 확인하기 어렵습니다.
@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 도펠헤르츠 액티브 마그네슘 300mg + 칼슘 600mg D3 5mcg — 균형 잡힌 함량
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="도펠헤르츠 액티브" caption="도펠헤르츠 액티브는 마그네슘 300mg, 칼슘 600mg, 비타민D 5mcg가 1정에 들어 있어 이상적인 2:1 비율을 갖췄습니다. 독일 건강기능식품 브랜드인 도펠헤르츠는 유럽에서 오랜 역사를 가진 만큼 품질 신뢰도가 높습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c57d42a0d62b4ffb.webp" alt="도펠헤르츠 액티브" caption="도펠헤르츠 액티브는 마그네슘 300mg, 칼슘 600mg, 비타민D 5mcg가 1정에 들어 있어 이상적인 2:1 비율을 갖췄습니다. 독일 건강기능식품 브랜드인 도펠헤르츠는 유럽에서 오랜 역사를 가진 만큼 품질 신뢰도가 높습니다." >}}
 <strong>장점</strong>: 성분 함량이 명확하게 표기되어 있어 섭취량을 정확히 계산할 수 있습니다. 마그네슘 300mg은 근육 이완과 신경 안정에 도움이 되는 수준입니다.
 
 <strong>아쉬운 점</strong>: 무료배송이지만 로켓배송이 아니라 배송이 다소 느릴 수 있습니다.
@@ -60,7 +60,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 99바이탈 뼈튼튼 칼슘 마그네슘 비타민D 아연 — 가격 대비 알찬 구성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="99바이탈 뼈튼튼" caption="9,900원이라는 가격에 칼슘, 마그네슘, 비타민D는 기본이고 아연까지 추가로 함유한 제품입니다. 로켓배송으로 다음 날 받을 수 있어 접근성이 좋습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/39b5b710bad7b504.webp" alt="99바이탈 뼈튼튼" caption="9,900원이라는 가격에 칼슘, 마그네슘, 비타민D는 기본이고 아연까지 추가로 함유한 제품입니다. 로켓배송으로 다음 날 받을 수 있어 접근성이 좋습니다." >}}
 <strong>장점</strong>: 아연이 포함되어 있어 면역력 관리에도 도움이 될 수 있습니다. 가격이 1만 원 미만이라 부담 없이 시작해볼 수 있습니다.
 
 <strong>아쉬운 점</strong>: 개별 성분의 정확한 함량(mg)이 제품명에 명시되어 있지 않아, 1일 권장량 대비 비율을 확인하기 어렵습니다.
@@ -71,7 +71,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 도펠헤르츠 마칼디 20포 3박스 — 분말 스틱형으로 간편 섭취
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="도펠헤르츠 마칼디" caption="도펠헤르츠 마칼디는 분말 스틱형(2.8g) 20포가 3박스, 총 60포 구성입니다. 물에 타서 마시는 형태로 정제를 삼키기 어려운 분들에게 적합합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c57d42a0d62b4ffb.webp" alt="도펠헤르츠 마칼디" caption="도펠헤르츠 마칼디는 분말 스틱형(2.8g) 20포가 3박스, 총 60포 구성입니다. 물에 타서 마시는 형태로 정제를 삼키기 어려운 분들에게 적합합니다." >}}
 <strong>장점</strong>: 분말 형태라 흡수가 빠르고, 스틱형이라 휴대가 간편합니다. 총 60포로 약 2개월 분량입니다.
 
 <strong>아쉬운 점</strong>: 가격이 82,520원으로 다른 제품 대비 부담스러울 수 있습니다. 일반배송이라 로켓배송 제품보다 배송 기간이 깁니다.

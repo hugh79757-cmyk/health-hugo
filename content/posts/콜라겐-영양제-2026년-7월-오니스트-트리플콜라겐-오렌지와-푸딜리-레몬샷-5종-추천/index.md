@@ -35,7 +35,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 센트휴 저분자 피쉬 콜라겐 펩타이드 99% 비오틴 — 16,900원의 실속 선택
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="센트휴 저분자 피쉬 콜라겐 펩타이드 99% 비오틴" caption="센트휴 저분자 피쉬 콜라겐 펩타이드 99% 비오틴" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d5c3e9ee14f23616.webp" alt="센트휴 저분자 피쉬 콜라겐 펩타이드 99% 비오틴" caption="센트휴 저분자 피쉬 콜라겐 펩타이드 99% 비오틴" >}}
 첫 직장을 시작하면서 피부 관리에 신경 쓰기 시작한 사회 초년생이라면, 가격 부담 없이 콜라겐 섭취를 시작할 수 있는 제품입니다. '저분자 피쉬 콜라겐 펩타이드 99%'라는 이름에서 알 수 있듯이 콜라겐 함량이 99%에 달하며 비오틴이 함께 들어있어 손톱과 모발 건강까지 고려한 구성입니다. 캡슐 형태로 물과 함께 간편하게 섭취할 수 있어 바쁜 아침에도 부담이 없습니다.
 
 <strong>장점</strong>: 가격 대비 콜라겐 순도가 높고, 비오틴까지 함유  
@@ -47,7 +47,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 에버콜라겐 정품 인앤업 플러스 6주분 — 브랜드 신뢰도의 힘
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="에버콜라겐 정품 인앤업 플러스 6주분" caption="에버콜라겐 정품 인앤업 플러스 6주분" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/f3c0bdd39f37fd4f.webp" alt="에버콜라겐 정품 인앤업 플러스 6주분" caption="에버콜라겐 정품 인앤업 플러스 6주분" >}}
 에버콜라겐은 이미 TV 광고로 익숙한 브랜드입니다. '인앤업 플러스'는 6주분(42일) 구성으로, 한 달 반 정도 꾸준히 먹어보며 효과를 체감해보고 싶은 분께 적합합니다. 특히 로켓배송이 가능해 주문 다음 날 받을 수 있다는 점이 직장인에게 큰 장점입니다. 액상과 분말이 혼합된 형태로 물에 타서 마시는 방식이며, 제조사에서 제시한 권장 섭취량을 따르면 됩니다.
 
 <strong>장점</strong>: 유명 브랜드 제품으로 품질에 대한 신뢰도 높음, 로켓배송  
@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 콜라겐 비타민C 캡슐 저분자 피쉬콜라겐 — 비타민C까지 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="콜라겐 비타민C 캡슐 저분자 피쉬콜라겐" caption="콜라겐 비타민C 캡슐 저분자 피쉬콜라겐" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/bd9b9e8dbf385d19.webp" alt="콜라겐 비타민C 캡슐 저분자 피쉬콜라겐" caption="콜라겐 비타민C 캡슐 저분자 피쉬콜라겐" >}}
 쿠팡 식품 카테고리에서 1위를 차지한 제품입니다. 저분자 피쉬콜라겐에 비타민C가 함께 들어있어 콜라겐 합성을 도와줍니다. 3개 세트로 60회분 구성이라 하루 한 캡슐씩 두 달 동안 섭취할 수 있습니다. 가격은 41,900원으로 한 달에 약 21,000원 수준입니다. 캡슐 형태이기 때문에 맛에 민감한 사람도 부담 없이 먹을 수 있습니다.
 
 <strong>장점</strong>: 콜라겐과 비타민C를 한 번에 섭취, 캡슐형으로 휴대 간편, 쿠팡 1위 제품  
@@ -71,7 +71,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 오니스트 트리플콜라겐 오렌지 14p 2개 — 맛과 흡수율을 모두 잡다
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="오니스트 트리플콜라겐 오렌지 14p 2개" caption="오니스트 트리플콜라겐 오렌지 14p 2개" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/f0ad39f22db86776.webp" alt="오니스트 트리플콜라겐 오렌지 14p 2개" caption="오니스트 트리플콜라겐 오렌지 14p 2개" >}}
 '트리플콜라겐'이라는 이름에서 알 수 있듯이 세 가지 다른 분자량의 콜라겐을 혼합하여 흡수율을 높인 제품입니다. 오렌지 맛 분말로, 물에 타서 마시면 상큼한 과일 음료처럼 즐길 수 있습니다. 개별 포장이라 가방에 넣어 다니며 필요할 때 물에 타 먹기 좋습니다. 280g 용량 2개로 총 28포(14p × 2) 구성입니다. 로켓배송 가능.
 
 <strong>장점</strong>: 세 가지 콜라겐 복합 구성, 오렌지 맛으로 섭취 거부감 적음, 개별포장 휴대성  
@@ -83,7 +83,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 푸딜리 콜라겐 레몬샷 4박스 — 프리미엄 액상 한 방울
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="푸딜리 콜라겐 레몬샷 4박스" caption="푸딜리 콜라겐 레몬샷 4박스" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0fd94d669ba969fa.webp" alt="푸딜리 콜라겐 레몬샷 4박스" caption="푸딜리 콜라겐 레몬샷 4박스" >}}
 콜마비앤에이치에서 제조한 프리미엄 라인입니다. 액상 레몬샷 타입으로, 아침에 한 포씩 간편하게 마실 수 있습니다. 280g 4박스 구성으로 총 60포 내외(박스당 15포 추정, 정확한 포 수는 제품 확인 필요)로 약 2개월 분량입니다. 로켓배송이 가능하고, 레몬향이 강하지 않아 부담 없이 마실 수 있다는 평이 많습니다.
 
 <strong>장점</strong>: 액상형으로 흡수 속도 빠름, 콜마비앤에이치 제조 품질, 로켓배송  
