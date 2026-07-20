@@ -103,18 +103,6 @@
       {{ end }}
     </footer>
   </article>
-  {{/* AdSense manual ad init — lazyad class handling */}}
-  <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var ads = document.querySelectorAll('ins.adsbygoogle');
-    ads.forEach(function(ad) {
-      if (ad.getAttribute('data-adsbygoogle-status') !== 'pushed') {
-        try { (adsbygoogle = window.adsbygoogle || []).push({}); }
-        catch (e) { console.error('AdSense push error:', e); }
-      }
-    });
-  });
-  </script>
 {{ end }}
 
 {{ define "SingleAuthor" }}
