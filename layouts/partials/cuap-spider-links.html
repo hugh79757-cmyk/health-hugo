@@ -1,0 +1,12 @@
+{{/* CUAP spider links partial: replaces related.html for cross-blog navigation */}}
+{{/* Cross-sell cards and funnel headers are injected into body_md at publish time */}}
+{{/* This partial serves as a fallback to same-blog related posts */}}
+
+{{ $crossData := .Params.cuap_cross_links }}
+{{ $funnelData := .Params.cuap_funnel }}
+
+{{ if or $crossData $funnelData }}
+  {{ .Content | safeHTML }}
+{{ else }}
+  {{ partial "related.html" . }}
+{{ end }}
