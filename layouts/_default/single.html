@@ -15,12 +15,20 @@
 
     {{/* Header */}}
     <header id="single_header" class="mt-5 max-w-prose">
+      {{/* ===== H1 직전 광고 ===== */}}
+      {{ partial "adsense/top.html" . }}
+
       {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
         {{ partial "breadcrumbs.html" . }}
       {{ end }}
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
         {{ .Title | emojify }}
       </h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+
+      {{/* ===== lead(설명문) 후 광고 ===== */}}
+      {{ partial "adsense/in-article.html" . }}
+
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
       </div>
@@ -45,40 +53,46 @@
 
       <div class="min-w-0 min-h-0 max-w-fit">
         {{ partial "series/series.html" . }}
-
-        {{/* 광고 개수 조건 분기 */}}
-        {{ $adCount := 0 }}
-        {{ if ge .WordCount 800 }}
-          {{ $section := .Section }}
-          {{ $highValueSections := slice "cars" "finance" "insurance" "crypto" "loans" "health" }}
-          {{ if in $highValueSections $section }}
-            {{ $adCount = 3 }}
-          {{ else }}
-            {{ $adCount = 2 }}
-          {{ end }}
-        {{ end }}
-
-        {{/* 마커 기반 광고 삽입 (AD3 → AD2 역순, NO split/h2) */}}
-        {{ $content := .Content }}
-        {{ if ge $adCount 1 }}
-          {{ $content = replace $content "</p>" "</p><!--AD1-->" 1 }}
-        {{ end }}
-        {{ if ge $adCount 2 }}
-          {{ $content = replace $content "<h2" "<!--AD3--><h2" 3 }}
-          {{ $content = replace $content "<!--AD3-->" "<!--AD2-->" 1 }}
-        {{ end }}
-        {{ if eq $adCount 2 }}
-          {{ $content = replace $content "<!--AD3-->" "" 1 }}
-        {{ end }}
-        {{ $content = printf "%s%s" $content (partial "adsense/leaderboard.html" .) }}
-        {{ $content = replace $content "<!--AD1-->" (partial "adsense/in-article.html" .) | safeHTML }}
-        {{ $content = replace $content "<!--AD2-->" (partial "adsense/in-article.html" .) | safeHTML }}
-        {{ if eq $adCount 3 }}
-          {{ $content = replace $content "<!--AD3-->" (partial "adsense/in-article.html" .) | safeHTML }}
-        {{ end }}
-
         <div class="article-content max-w-prose mb-20">
-          {{ $content }}
+
+          {{/* ===== pick 로직 이식: 본문 분할 인젝션 ===== */}}
+          {{ $content := .Content }}
+          {{ $wordCount := .WordCount }}
+          {{ $section := .Section }}
+          {{ $isHighValue := or (eq $section "cars") (eq $section "finance") }}
+          {{ $maxAds := 2 }}
+          {{ if or (ge $wordCount 800) $isHighValue }}{{ $maxAds = 3 }}{{ end }}
+
+          {{ $h2parts := split $content "<h2" }}
+          {{ if gt (len $h2parts) 1 }}
+            {{ range $i, $part := $h2parts }}
+              {{ if eq $i 0 }}
+                {{ $pParts := split $part "</p>" }}
+                {{ if gt (len $pParts) 1 }}
+{{ index $pParts 0 | safeHTML }}</p>
+{{ partial "adsense/in-article.html" $ }}
+{{ range $j, $p := $pParts }}{{ if gt $j 0 }}{{ $p | safeHTML }}</p>{{ end }}{{ end }}
+                {{ else }}
+                  {{ $part | safeHTML }}
+                {{ end }}
+              {{ else }}
+{{ if or (eq $i 1) (and (eq $i 3) (ge $maxAds 3)) }}
+{{ partial "adsense/in-article.html" $ }}
+{{ end }}
+                {{ printf "<h2%s" $part | safeHTML }}
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ $pParts := split $content "</p>" }}
+            {{ if gt (len $pParts) 1 }}
+              {{ index $pParts 0 | safeHTML }}</p>
+              {{ partial "adsense/in-article.html" . }}
+              {{ range $j, $p := $pParts }}{{ if gt $j 0 }}{{ $p | safeHTML }}</p>{{ end }}{{ end }}
+            {{ else }}
+              {{ $content | safeHTML }}
+            {{ end }}
+          {{ end }}
+
         </div>
         {{ partial "series/series-closed.html" . }}
         {{ partial "sharing-links.html" . }}
