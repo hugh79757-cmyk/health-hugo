@@ -1,15 +1,24 @@
 ---
-title: "스포츠리서치 vs 종근당건강 — 오메가3 선택 기준과 순위"
-date: 2026-07-12T16:30:57+09:00
+title: 스포츠리서치 vs 종근당건강 오메가3 선택 기준과 순위
+date: 2026-07-12 16:30:57+09:00
 draft: false
-description: "\"아침마다 챙겨 먹는 영양제인데, 어떤 제품이 진짜일까?\" 2026년 7월 기준으로 오메가3를 고르는 일이 점점 복잡해지고 있습니다. 초임계 공정, rTG 형태, EPA와 DHA 함량 등 선택해야 할 기준이 많아지면서 오히려 고민이 깊어지기 마련입니다. 특히 한 달에 1만 원대부터 5만"
-slug: "스포츠리서치-vs-종근당건강-오메가3-선택-기준과-순위"
-categories: ['추천']
-tags: ['스포츠리서치', '추천', '닥터린', '종근당건강', '프로메가', '오메가3']
+description: '"아침마다 챙겨 먹는 영양제인데, 어떤 제품이 진짜일까?" 2026년 7월 기준으로 오메가3를 고르는 일이 점점 복잡해지고
+  있습니다. 초임계 공정, rTG 형태, EPA와 DHA 함량 등 선택해야 할 기준이 많아지면서 오히려 고민이 깊어지기 마련입니다. 특히 한 달에
+  1만 원대부터 5만'
+slug: 스포츠리서치-vs-종근당건강-오메가3-선택-기준과-순위
+categories:
+- 추천
+tags:
+- 스포츠리서치
+- 추천
+- 닥터린
+- 종근당건강
+- 프로메가
+- 오메가3
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/12/94691bbd.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/12/94691bbd.webp
   relative: true
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/12/94691bbd.webp"
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/12/94691bbd.webp
 ---
 {{< lead >}}
 "아침마다 챙겨 먹는 영양제인데, 어떤 제품이 진짜일까?"

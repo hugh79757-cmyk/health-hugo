@@ -1,14 +1,18 @@
 ---
-title: "덴프스 BEST 5 — 2026년 7월 엄선"
-date: 2026-07-08T20:31:10+09:00
+title: 덴프스 BEST 5 2026년 7월 엄선
+date: 2026-07-08 20:31:10+09:00
 draft: false
-description: "매일 챙기는 유산균, 어떤 제품이 내 몸에 맞을지 고민이신가요? 2026년 7월 기준, 시중에 수많은 유산균 제품이 있지만 덴프스만큼 꾸준한 사랑을 받는 브랜드는 드뭅니다. 장 건강부터 여성 건강까지 아우르는 덴프스의 대표 제품들을 꼼꼼히 비교해 보았습니다."
-slug: "덴프스-best-5-2026년-7월-엄선"
-categories: ['추천']
-tags: ['덴프스', 'BIOFARMA']
+description: 매일 챙기는 유산균, 어떤 제품이 내 몸에 맞을지 고민이신가요? 2026년 7월 기준, 시중에 수많은 유산균 제품이 있지만
+  덴프스만큼 꾸준한 사랑을 받는 브랜드는 드뭅니다. 장 건강부터 여성 건강까지 아우르는 덴프스의 대표 제품들을 꼼꼼히 비교해 보았습니다.
+slug: 덴프스-best-5-2026년-7월-엄선
+categories:
+- 추천
+tags:
+- 덴프스
+- BIOFARMA
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/08/8a5d9d51.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/08/8a5d9d51.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/08/8a5d9d51.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/08/8a5d9d51.webp
 ---
 {{< lead >}}
 매일 챙기는 유산균, 어떤 제품이 내 몸에 맞을지 고민이신가요? 2026년 7월 기준, 시중에 수많은 유산균 제품이 있지만 덴프스만큼 꾸준한 사랑을 받는 브랜드는 드뭅니다. 장 건강부터 여성 건강까지 아우르는 덴프스의 대표 제품들을 꼼꼼히 비교해 보았습니다.

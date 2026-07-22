@@ -1,14 +1,17 @@
 ---
-title: "TOP 5 뉴트리코스트 — 선택한 이유와 후기"
-date: 2026-07-10T13:31:01+09:00
+title: TOP 5 뉴트리코스트 선택한 이유와 후기
+date: 2026-07-10 13:31:01+09:00
 draft: false
-description: "2026년 7월, 헬스 보충제 시장은 선택지가 넘쳐납니다. 크레아틴, BCAA, 비타민까지 챙기려다 보면 지갑이 얇아지고 머리만 복잡해지기 마련입니다. 특히 처음 보충제를 구매하는 분이라면 \"이 제품이 진짜 내게 맞을까?\"라는 고민이 가장 클 텐데요.---"
-slug: "top-5-뉴트리코스트-선택한-이유와-후기"
-categories: ['추천']
-tags: ['뉴트리코스트']
+description: 2026년 7월, 헬스 보충제 시장은 선택지가 넘쳐납니다. 크레아틴, BCAA, 비타민까지 챙기려다 보면 지갑이 얇아지고 머리만
+  복잡해지기 마련입니다. 특히 처음 보충제를 구매하는 분이라면 "이 제품이 진짜 내게 맞을까?"라는 고민이 가장 클 텐데요.---
+slug: top-5-뉴트리코스트-선택한-이유와-후기
+categories:
+- 추천
+tags:
+- 뉴트리코스트
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/10/ddcff540.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/10/ddcff540.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/10/ddcff540.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/10/ddcff540.webp
 ---
 {{< lead >}}
 2026년 7월, 헬스 보충제 시장은 선택지가 넘쳐납니다. 크레아틴, BCAA, 비타민까지 챙기려다 보면 지갑이 얇아지고 머리만 복잡해지기 마련입니다. 특히 처음 보충제를 구매하는 분이라면 "이 제품이 진짜 내게 맞을까?"라는 고민이 가장 클 텐데요.---

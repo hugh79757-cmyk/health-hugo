@@ -1,15 +1,24 @@
 ---
-title: "뉴욕웨이부터 NS까지 — 2026년 단백질 보충제 선택 가이드"
-date: 2026-07-14T20:31:13+09:00
+title: 뉴욕웨이부터 NS까지 2026년 단백질 보충제 선택 가이드
+date: 2026-07-14 20:31:13+09:00
 draft: false
-description: "운동 후 단백질 보충제를 찾다 보면 가격과 맛, 종류가 제각각이라 어떤 제품이 내 상황에 맞는지 헷갈리기 마련입니다. 2026년 7월 기준, 쿠팡에서 가장 인기 있는 단백질 보충제 4가지를 실제 사용자 리뷰와 함께 비교해 보았습니다. 유청 단백질부터 식물성까지, 운동 목적과 식습관에 따"
-slug: "뉴욕웨이부터-ns까지-2026년-단백질-보충제-선택-가이드"
-categories: ['추천']
-tags: ['추천', 'UNKNOWN', '단백질', 'NS WHEY PACK', '단백질 보충제 추천', '뉴욕웨이']
+description: 운동 후 단백질 보충제를 찾다 보면 가격과 맛, 종류가 제각각이라 어떤 제품이 내 상황에 맞는지 헷갈리기 마련입니다. 2026년
+  7월 기준, 쿠팡에서 가장 인기 있는 단백질 보충제 4가지를 실제 사용자 리뷰와 함께 비교해 보았습니다. 유청 단백질부터 식물성까지, 운동 목적과
+  식습관에 따
+slug: 뉴욕웨이부터-ns까지-2026년-단백질-보충제-선택-가이드
+categories:
+- 추천
+tags:
+- 추천
+- UNKNOWN
+- 단백질
+- NS WHEY PACK
+- 단백질 보충제 추천
+- 뉴욕웨이
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/5c105824.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/5c105824.webp
   relative: true
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/5c105824.webp"
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/5c105824.webp
 ---
 {{< lead >}}
 <strong>헬스장에 매일 가지만 보충제 고르는 건 매번 고민입니다</strong>
