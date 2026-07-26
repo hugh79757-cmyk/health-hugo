@@ -48,7 +48,7 @@ html.dark ins.adsbygoogle { background: #fff !important; }
 
 /* ── Price Check Button ── */
 .btn-price-check {
-  display: inline-block;
+  display: table;
   padding: 0.625rem 1.25rem;
   background: #ea580c;
   color: #fff !important;
@@ -58,7 +58,7 @@ html.dark ins.adsbygoogle { background: #fff !important; }
   border-radius: 0.5rem;
   text-decoration: none !important;
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
-  margin: 1.5rem 0;
+  margin: 1.5rem auto;
 }
 .btn-price-check:hover {
   background: #c2410c;
@@ -73,4 +73,115 @@ html.dark .btn-price-check {
 html.dark .btn-price-check:hover {
   background: #ea580c;
   box-shadow: 0 4px 12px rgba(249, 115, 22, 0.3);
+}
+
+/* ── Cross-Sell Card ── */
+.cross-sell-card {
+  margin: 20px 0;
+  padding: 16px;
+  background: #fafbfc;
+  border-radius: 12px;
+  border: 1px solid #e8ecf0;
+}
+.cross-sell-card__title {
+  margin: 0 0 10px;
+  font-weight: 600;
+  font-size: 15px;
+  color: #374151;
+}
+.cross-sell-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.cross-sell-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  background: #f0f7ff;
+  border: 1px solid #d0e3ff;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #1a56db;
+  font-size: 14px;
+  margin: 4px;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+.cross-sell-card__link:hover {
+  background: #e0efff;
+  border-color: #a0c4ff;
+}
+html.dark .cross-sell-card {
+  background: #1e293b;
+  border-color: #334155;
+}
+html.dark .cross-sell-card__title {
+  color: #e2e8f0;
+}
+html.dark .cross-sell-card__link {
+  background: #1e293b;
+  border-color: #334155;
+  color: #93c5fd;
+}
+html.dark .cross-sell-card__link:hover {
+  background: #334155;
+  border-color: #60a5fa;
+}
+
+/* ── Funnel Header ── */
+.funnel-header {
+  margin: 0 0 16px;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-radius: 8px;
+}
+.funnel-header__label {
+  margin: 0 0 6px;
+  font-size: 13px;
+  color: #6b7280;
+}
+.funnel-header__links {
+  display: flex;
+  flex-wrap: wrap;
+}
+.funnel-header__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 12px;
+}
+html.dark .funnel-header {
+  background: #1e293b;
+}
+html.dark .funnel-header__label {
+  color: #94a3b8;
+}
+
+/* ── CTA Box (fallback) ── */
+.cta-box {
+  background: #f8f9fa;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 24px 0;
+}
+.cta-box p:first-child {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+.cta-box p:last-child {
+  font-size: 14px;
+  margin: 0 0 12px;
+  color: #555;
+}
+html.dark .cta-box {
+  background: #1e293b;
+}
+html.dark .cta-box p:last-child {
+  color: #94a3b8;
 }
