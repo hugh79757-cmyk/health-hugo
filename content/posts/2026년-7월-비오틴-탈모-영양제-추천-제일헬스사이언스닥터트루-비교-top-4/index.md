@@ -161,7 +161,7 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <a href="https://fitness.informationhot.kr/posts/프로스펙스코멧-스포츠-운동-밴드-추천-2026년-7월-실속-5종-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 프로스펙스코멧-스포츠-운동-밴드-2026년-7월-실속-5종-비교</a>
 <a href="https://kitchen.informationhot.kr/posts/2026년-7월-그릴가방-추천-스테츠-핏보이캠핑몽-카고-상황별-실속-선택/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 2026년-7월-그릴가방-스테츠-핏보이캠핑몽-카고-상황별-실속-선택</a>
 <a href="https://baby.informationhot.kr/posts/토몽-vs-리틀클라우드-실제-써본-엄마가-말하는-아기욕조-top-5/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 토몽-vs-리틀클라우드-실제-써본-엄마가-말하는-아기욕조-top-5</a>
-<a href="https://beauty.informationhot.kr/posts/2026년-7월-하이라이터-추천-인뮤투쿨포스쿨클리오-1만원대-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 2026년-7월-하이라이터-인뮤투쿨포스쿨클리오-1만원대-실속-비교</a>
+<a href="https://beauty.informationhot.kr/posts/비타민c-세럼-추천-코스놀로지-슈퍼-글루타민c-vs-닥터505-비타-씨/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 2026년-7월-하이라이터-인뮤투쿨포스쿨클리오-1만원대-실속-비교</a>
 </div>
 </div>
 

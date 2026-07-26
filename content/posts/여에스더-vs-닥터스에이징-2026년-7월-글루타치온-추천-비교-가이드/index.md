@@ -23,8 +23,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #dc2626;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260721-밸런스보드-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 밸런스보드 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-수동착즙기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 수동착즙기 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/실제-써본-사람이-고른-2026년-7월-밸런스보드-추천-top-5-셀프리쉬스포홀릭/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 밸런스보드 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/수동착즙기-추천-휴롬-슬림형-착즙기-h310a-bfc04wh-vs-투데이리빙-대형-스텐-착즙기/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 수동착즙기 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -168,10 +168,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://fitness.informationhot.kr/posts/20260721-밸런스보드-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 밸런스보드 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-수동착즙기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 수동착즙기 추천 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260721-아기-이유식-용품-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 이유식 용품 추천 추천</a>
-<a href="https://beauty.informationhot.kr/posts/20260721-파우더-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 파우더 추천 추천</a>
+<a href="https://fitness.informationhot.kr/posts/실제-써본-사람이-고른-2026년-7월-밸런스보드-추천-top-5-셀프리쉬스포홀릭/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 밸런스보드 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/수동착즙기-추천-휴롬-슬림형-착즙기-h310a-bfc04wh-vs-투데이리빙-대형-스텐-착즙기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 수동착즙기 추천 추천</a>
+<a href="https://baby.informationhot.kr/posts/아기-이유식-용품-추천-자기주도-휘어지는-이유식-스푼-포크-세트/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 이유식 용품 추천 추천</a>
+<a href="https://beauty.informationhot.kr/posts/헤브블루-vs-미팩토리-파우더-추천-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 파우더 추천 추천</a>
 </div>
 </div>
 

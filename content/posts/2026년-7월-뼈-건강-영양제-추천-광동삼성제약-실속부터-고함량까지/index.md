@@ -23,8 +23,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #dc2626;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260722-스쿼트-보조-기구-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 스쿼트 보조 기구 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260722-칼-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 칼 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/스쿼트-보조-기구-추천-별의-바다-고탄력-vs-tani-일체형-스쿼트랙/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 스쿼트 보조 기구 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/칼딘-스테인리스-조리도구-vs-제나-비커-3리터-계량컵-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 칼 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -122,10 +122,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://fitness.informationhot.kr/posts/20260722-스쿼트-보조-기구-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스쿼트 보조 기구 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260722-칼-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 칼 추천 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260722-전동-바운서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 전동 바운서 추천 추천</a>
-<a href="https://beauty.informationhot.kr/posts/20260722-헤어롤-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 헤어롤 추천 추천</a>
+<a href="https://fitness.informationhot.kr/posts/스쿼트-보조-기구-추천-별의-바다-고탄력-vs-tani-일체형-스쿼트랙/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스쿼트 보조 기구 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/칼딘-스테인리스-조리도구-vs-제나-비커-3리터-계량컵-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 칼 추천 추천</a>
+<a href="https://baby.informationhot.kr/posts/헤라시스-전동바운서-vs-인제뉴어티-하이브리드-스윙2-2026년-전동-바운서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 전동 바운서 추천 추천</a>
+<a href="https://beauty.informationhot.kr/posts/헤어롤-추천-미소라인-고급-알루미늄판-vs-어스앤홉-열전도-앞머리-2026년-6월-기준/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 헤어롤 추천 추천</a>
 </div>
 </div>
 

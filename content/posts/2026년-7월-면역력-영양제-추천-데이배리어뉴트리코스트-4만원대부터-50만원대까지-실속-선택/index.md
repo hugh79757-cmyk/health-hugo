@@ -23,8 +23,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #dc2626;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260721-필라테스-기구-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 필라테스 기구 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-핸드블렌더-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 핸드블렌더 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/필라테스-기구-추천-1위-올더히어-스파인코렉터-허리-스트레칭-필수템/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 필라테스 기구 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/핸드블렌더-추천-필립스-파워-핸드블렌더-vs-신일-dc모터-핸드블렌더/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 핸드블렌더 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -131,10 +131,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://fitness.informationhot.kr/posts/20260721-필라테스-기구-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 필라테스 기구 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-핸드블렌더-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 핸드블렌더 추천 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260721-아기-카시트-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 카시트 추천 추천</a>
-<a href="https://beauty.informationhot.kr/posts/20260721-컨실러-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 컨실러 추천 추천</a>
+<a href="https://fitness.informationhot.kr/posts/필라테스-기구-추천-1위-올더히어-스파인코렉터-허리-스트레칭-필수템/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 필라테스 기구 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/핸드블렌더-추천-필립스-파워-핸드블렌더-vs-신일-dc모터-핸드블렌더/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 핸드블렌더 추천 추천</a>
+<a href="https://baby.informationhot.kr/posts/아기-카시트-추천-마드레마노-카시트-머리고정과-어린이-안전-의자/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 카시트 추천 추천</a>
+<a href="https://beauty.informationhot.kr/posts/컨실러-추천-1위-립힙-매직-커버-vs-2위-뮤끄-핑크힐-베일러/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 컨실러 추천 추천</a>
 </div>
 </div>
 

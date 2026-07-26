@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260725-요가매트-단면-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 요가매트 단면 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260725-가성비/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 가성비 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/hasbeoteunaram-yogamat-danmyeon-recommend-du-kke-50mmbuteo-wa-ideu-kkaji-5jong-compare/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 요가매트 단면 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/jeongi-jjimgi-recommend-dog-il-new-peulimi-eom-vs-oleute-full-seuten-value-choegang-compare/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 가성비 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -131,10 +131,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://fitness.informationhot.kr/posts/20260725-요가매트-단면-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 요가매트 단면 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260725-가성비/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 가성비 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260725-아기-선크림-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 선크림 추천</a>
-<a href="https://beauty.informationhot.kr/posts/20260725-판테놀-크림-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 판테놀 크림 추천</a>
+<a href="https://fitness.informationhot.kr/posts/hasbeoteunaram-yogamat-danmyeon-recommend-du-kke-50mmbuteo-wa-ideu-kkaji-5jong-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 요가매트 단면 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/jeongi-jjimgi-recommend-dog-il-new-peulimi-eom-vs-oleute-full-seuten-value-choegang-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 가성비 추천</a>
+<a href="https://baby.informationhot.kr/posts/agi-sunscreen-recommend-geulinpinggeo-ogabebe-ogabon-practical-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 선크림 추천</a>
+<a href="https://beauty.informationhot.kr/posts/pantenol-cream-recommend-la-undeulaebdeomapaegtoli-mingamseong-pibuleul-wihan-5jong-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 판테놀 크림 추천</a>
 </div>
 </div>
 

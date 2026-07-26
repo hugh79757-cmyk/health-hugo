@@ -157,7 +157,7 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <a href="https://fitness.informationhot.kr/posts/스파인코렉터-추천-backflow-스파인코렉터-라운드숄더로-바른-자세-만들기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스파인코렉터 추천 추천</a>
 <a href="https://kitchen.informationhot.kr/posts/핸드블렌더-추천-필립스-파워-핸드블렌더-vs-신일-dc모터-핸드블렌더/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 핸드블렌더 추천 추천</a>
 <a href="https://baby.informationhot.kr/posts/아기-카시트-추천-마드레마노-카시트-머리고정과-어린이-안전-의자/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 카시트 추천 추천</a>
-<a href="https://beauty.informationhot.kr/posts/2026년-7월-캘빈클라인-씨케이-비-블루-옴므-실속-선택이-가능한-향수-추천-5가지/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 향수 추천 추천</a>
+<a href="https://beauty.informationhot.kr/posts/향수-추천-선물추천-남성-니치-향수-4종-기프트-세트-vs-블루-옴므-오-드-뚜왈렛/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 향수 추천 추천</a>
 </div>
 </div>
 

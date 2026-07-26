@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260725-헬스벨트-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 헬스벨트 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260725-도마-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 도마 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/helseubelteu-recommend-habinjyeojelotuhi-eolo-2man-wondaebuteo-7man-wondae-passing-grade-5seon/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 헬스벨트 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/doma-recommend-heunhan-ohae-3gaji-2026-gijun-balojabgi/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 도마 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -140,10 +140,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://fitness.informationhot.kr/posts/20260725-헬스벨트-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 헬스벨트 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260725-도마-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 도마 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260725-아기-샴푸-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 샴푸 추천</a>
-<a href="https://beauty.informationhot.kr/posts/20260725-진정-크림-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 진정 크림 추천</a>
+<a href="https://fitness.informationhot.kr/posts/helseubelteu-recommend-habinjyeojelotuhi-eolo-2man-wondaebuteo-7man-wondae-passing-grade-5seon/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 헬스벨트 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/doma-recommend-heunhan-ohae-3gaji-2026-gijun-balojabgi/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 도마 추천</a>
+<a href="https://baby.informationhot.kr/posts/no-ellohilseupyeongang-yul-agi-shampoo-recommend-14man-wondae-passing-grade-top-4/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 샴푸 추천</a>
+<a href="https://beauty.informationhot.kr/posts/jinjeong-cream-recommend-pyeongang-yulmilkinbontonig-pibu-ta-ibbyeol-seontaeg-ga-ideu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 진정 크림 추천</a>
 </div>
 </div>
 

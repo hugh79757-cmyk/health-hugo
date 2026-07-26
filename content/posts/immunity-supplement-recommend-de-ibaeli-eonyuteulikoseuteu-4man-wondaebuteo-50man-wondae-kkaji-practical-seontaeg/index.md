@@ -25,8 +25,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #dc2626;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/20260721-필라테스-기구-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 필라테스 기구 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-핸드블렌더-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 핸드블렌더 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://fitness.informationhot.kr/posts/필라테스-기구-추천-1위-올더히어-스파인코렉터-허리-스트레칭-필수템/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">💪 필라테스 기구 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/핸드블렌더-추천-필립스-파워-핸드블렌더-vs-신일-dc모터-핸드블렌더/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#dc2626;font-weight:600;font-size:14px;margin-right:12px">🍳 핸드블렌더 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -137,7 +137,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <a href="https://fitness.informationhot.kr/posts/스쿼트-보조-기구-추천-별의-바다-고탄력-vs-tani-일체형-스쿼트랙/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스쿼트 보조 기구 추천</a>
 <a href="https://kitchen.informationhot.kr/posts/리빙센스-더글라스-티포트-vs-퀸센스-전기-티포트-2026년-티포트-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 티포트 추천</a>
 <a href="https://baby.informationhot.kr/posts/유닛키즈-쏘서-3in1-vs-브라이트스타트-바운스-액티비티-아기-쏘서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 쏘서 추천</a>
-<a href="https://beauty.informationhot.kr/posts/2026년-7월-립케어-추천-총정리-유리아쥬닥터하우쉬카-실속-선택/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 립케어 추천</a>
+<a href="https://beauty.informationhot.kr/posts/dagteoha-uswika-lib-ke-eo-vs-deoboseub-lip-balm-ton-eobsunscreen-2026-libke-eo-recommend/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💄 립케어 추천</a>
 </div>
 </div>
 
