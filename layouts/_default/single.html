@@ -24,7 +24,6 @@
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
         {{ .Title | emojify }}
       </h1>
-      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
 
       {{/* ===== lead(설명문) 후 광고 ===== */}}
       {{ partial "adsense/in-article.html" . }}
