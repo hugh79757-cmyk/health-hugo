@@ -75,7 +75,7 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 
 ![SOULBOOM 오픈형 블루투스 이어폰](https://ads-partners.coupang.com/image1/iJ8jxhzVhZVLpgdEiKA1Evda1TLbDIrvdlRtGUVQiSNMW_SHsU9SvCM0uGEoqezW0Rdn8a1edi6L4GjNYw9EcrecSLiv6a8VMUMhR-zl2s41mfu3QVMwUp-TYIuwomUcI-fee4hpLWtJ-Q-NM_Bzt2AyDRv-spGggAqo7gWkSgF4zn6ifhuTcee2ddc4zHyDJ0e9xD3TR1LjJdMR2shCoNPgwpy2eAAb2NyMn_oFDCQJUlNj753eF7LcG--8X-yzF43L-P9CUy7y3FibaN4I39NAKZqrUUdiP6dTKI2C5tGOfYc5fcc2me2aWKU8h0QwUkhe)
 
-耳内(In-ear) 방식이 부담스러운 분들을 위한 '가벼운' 청각 솔루션입니다. 오픈형 디자인은 귀를 막지 않아 장시간 착용해도 이어폰을 낀 느낌이 적고, 주변 소리도 들을 수 있어 안전합니다. C타입 충전과 LED 배터리 잔량 표시로 편의성을 높였으며, '장시간 재생'을 강조하여 사용 시간에 대한 불안을 줄여줍니다. 가격은 31,320원이며, 로켓배송이 가능합니다.
+이내(In-ear) 방식이 부담스러운 분들을 위한 '가벼운' 청각 솔루션입니다. 오픈형 디자인은 귀를 막지 않아 장시간 착용해도 이어폰을 낀 느낌이 적고, 주변 소리도 들을 수 있어 안전합니다. C타입 충전과 LED 배터리 잔량 표시로 편의성을 높였으며, '장시간 재생'을 강조하여 사용 시간에 대한 불안을 줄여줍니다. 가격은 31,320원이며, 로켓배송이 가능합니다.
 
 야외 조깅이나 산책을 하면서 음악을 듣되, 주변 차 소리나 지인의 말도 놓치고 싶지 않은 분들에게 어울립니다. 또한, 장시간 통화가 잦은 업무 환경에서도 귀의 부담을 줄일 수 있습니다.
 

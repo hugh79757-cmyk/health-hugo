@@ -1,7 +1,7 @@
 ---
 title: "혈행 개선 영양제 추천 TOP5 (2026년)"
 date: "2026-07-23T07:34:08+09:00"
-draft: "false"
+draft: true
 description: "2026년 7월 혈행 개선 영양제 추천 — 에스더포뮬러·바른뉴트리·대웅생명과학 가격 대비 총정리 한 달 전부터 부모님께서 “머리가 무겁고 손발이 자주 저리다”고 말씀하셨습니다. 혈행 개선을 은행잎추출물로 시작하라는 주변 조언에 제품을 알아봤는데, 가격부터 성분 구성까지 천차만별이더군요."
 slug: "hyeolhaeng-gaeseon-supplement-recommend-top5-2026"
 categories: ['추천']
