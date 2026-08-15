@@ -187,3 +187,14 @@ html.dark .cta-box p:last-child {
 }
 
 .hero img,.article-hero img{object-fit:contain}
+
+/* ===== 목록/홈 카드 썸네일: 정사각형 + 양옆 여백 허용(잘림 방지) ===== */
+.thumbnail {
+  aspect-ratio: 1 / 1 !important;
+  height: auto !important;
+  background: #f5f5f5;
+}
+.thumbnail img {
+  object-fit: contain !important;
+  background: #f5f5f5;
+}
