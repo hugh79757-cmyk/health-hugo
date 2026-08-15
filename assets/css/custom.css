@@ -185,3 +185,5 @@ html.dark .cta-box {
 html.dark .cta-box p:last-child {
   color: #94a3b8;
 }
+
+.hero img,.article-hero img{object-fit:contain}

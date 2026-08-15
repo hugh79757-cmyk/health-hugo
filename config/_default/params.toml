@@ -29,7 +29,7 @@ enableCodeCopy = false
   showDateUpdated = false
   showAuthor = false
   showBreadcrumbs = true
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = false
   showRelatedContent = false
   relatedContentLimit = 5
@@ -53,4 +53,5 @@ enableCodeCopy = false
 [advertisement]
   adsense = "ca-pub-6677996696534146"
   inArticleSlot = "2195212287"
-  leaderboardSlot = "2195212287"
+  topSlot = "2195212287"
+dateFormat = "2006년 1월 2일"
