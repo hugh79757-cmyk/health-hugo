@@ -1,16 +1,25 @@
 ---
-title: '광동 비타민C건강헤아림 락토페린 개월분 선택 가이드와 추천'
-date: 2026-07-29T20:32:18+09:00
-draft: true
-description: "2026년 7월 기준, 영양제를 구매할 때 '개월분' 단위로 고르는 게 생각보다 까다롭습니다. 1개월분, 2개월분, 6개월분… 용량이 제각각이라 가격만 보고 결정했다가 실제 복용 기간과 차이가 나는 경우도 많습니다. 오늘은 광동 365케어 비타민C, 비타민마을 삼백초추출물, 건강헤아림"
-slug: '광동-비타민c건강헤아림-락토페린-개월분-선택-가이드와-추천'
-categories: ['추천']
-tags: ['개월분', '비타민마을', '건강헤아림', '에스엘에스', '코스팜', '메이드인랩']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/bac777ab//2026/07/29/b1e0a66e.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/bac777ab//2026/07/29/b1e0a66e.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/bac777ab//2026/07/29/b1e0a66e.webp'
+date: 2026-07-29 20:32:18+09:00
+description: 2026년 7월 기준, 영양제를 구매할 때 '개월분' 단위로 고르는 게 생각보다 까다롭습니다. 1개월분, 2개월분, 6개월분…
+  용량이 제각각이라 가격만 보고 결정했다가 실제 복용 기간과 차이가 나는 경우도 많습니다. 오늘은 광동 365케어 비타민C, 비타민마을 삼백초추출물,
+  건강헤아림
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/bac777ab//2026/07/29/b1e0a66e.webp
+slug: 광동-비타민c건강헤아림-락토페린-개월분-선택-가이드와-추천
+tags:
+- 개월분
+- 비타민마을
+- 건강헤아림
+- 에스엘에스
+- 코스팜
+- 메이드인랩
+title: 광동 비타민C건강헤아림 락토페린 개월분 선택 가이드와 추천
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

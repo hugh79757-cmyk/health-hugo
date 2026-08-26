@@ -1,16 +1,22 @@
 ---
-title: 'GNM광동 칼슘 마그네슘 아연 추천 알약 크기와 함량 비교 총정리'
-date: 2026-08-03T10:45:05+09:00
-draft: true
-description: '칼슘 마그네슘 아연 제품은 성분 이름은 같아도 원료 형태와 함량, 1일 섭취량이 제각각이라 단순히 가격만 비교하면 실패하기 쉽습니다. 2026년 8월 기준으로 쿠팡 판매 순위 상위권에 있는 제품들을 살펴보면, 가격대가 13,620원에서 29,800원까지 넓게 분포하는데'
-slug: 'gnm광동-칼슘-마그네슘-아연-추천-알약-크기와-함량-비교-총정리'
-categories: ['추천']
-tags: ['칼슘 마그네슘 아연', '마그네슘', '아연', '칼슘']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/5eae9966//2026/08/03/38cbac39.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/5eae9966//2026/08/03/38cbac39.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/5eae9966//2026/08/03/38cbac39.webp'
+date: 2026-08-03 10:45:05+09:00
+description: 칼슘 마그네슘 아연 제품은 성분 이름은 같아도 원료 형태와 함량, 1일 섭취량이 제각각이라 단순히 가격만 비교하면 실패하기
+  쉽습니다. 2026년 8월 기준으로 쿠팡 판매 순위 상위권에 있는 제품들을 살펴보면, 가격대가 13,620원에서 29,800원까지 넓게 분포하는데
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/5eae9966//2026/08/03/38cbac39.webp
+slug: gnm광동-칼슘-마그네슘-아연-추천-알약-크기와-함량-비교-총정리
+tags:
+- 칼슘 마그네슘 아연
+- 마그네슘
+- 아연
+- 칼슘
+title: GNM광동 칼슘 마그네슘 아연 추천 알약 크기와 함량 비교 총정리
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

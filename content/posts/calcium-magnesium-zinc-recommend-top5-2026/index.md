@@ -1,18 +1,23 @@
 ---
-title: "칼슘 마그네슘 아연 추천 TOP5 (2026년)"
-date: "2026-07-15T20:32:12+09:00"
-draft: true
-description: "혹시 \\\\\\\"뼈에 좋다고 해서 샀는데, 알약이 너무 커서 목에 걸릴 것 같아\\\\\\\"라는 고민, 해보셨나요? 2026년 7월 현재 칼슘 마그네슘 아연 영양제는 수백 가지가 넘습니다. 가격은 천차만별, 성분은 비슷해 보이지만 실제 복용감과 흡수율은 제품마다 크게 달라집니다.  직접 비교해본 결과, 가"
-slug: "calcium-magnesium-zinc-recommend-top5-2026"
-categories: ['추천']
-tags: ['광동생활건강', '99바이탈', '칼슘 마그네슘 아연', '솔가', '바이오로제트', '대원헬스케어']
-cover: 
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/38cbac39.webp"
-  relative: "true"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/38cbac39.webp"
-
-
-
+categories:
+- 추천
+cover:
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/38cbac39.webp
+  relative: 'true'
+date: '2026-07-15T20:32:12+09:00'
+description: 혹시 \\\"뼈에 좋다고 해서 샀는데, 알약이 너무 커서 목에 걸릴 것 같아\\\"라는 고민, 해보셨나요? 2026년 7월
+  현재 칼슘 마그네슘 아연 영양제는 수백 가지가 넘습니다. 가격은 천차만별, 성분은 비슷해 보이지만 실제 복용감과 흡수율은 제품마다 크게 달라집니다.  직접
+  비교해본 결과, 가
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/38cbac39.webp
+slug: calcium-magnesium-zinc-recommend-top5-2026
+tags:
+- 광동생활건강
+- 99바이탈
+- 칼슘 마그네슘 아연
+- 솔가
+- 바이오로제트
+- 대원헬스케어
+title: 칼슘 마그네슘 아연 추천 TOP5 (2026년)
 ---
 
 <div style=\"margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px\">

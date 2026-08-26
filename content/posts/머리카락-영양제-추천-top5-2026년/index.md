@@ -1,16 +1,23 @@
 ---
-title: '머리카락 영양제 추천 TOP5 (2026년)'
-date: 2026-07-31T15:25:28+09:00
-draft: true
-description: '제목: 머리카락 영양제 추천 BEST 3 — 닥터브라이언·솔가 2026년 7월 엄선 도입부 샤워할 때마다 머리카락이 빠지는 양이 늘어난 건 아닌지, 거울 속 내 머리숱이 예전 같지 않아 고민인 분들이 많습니다. 2026년 7월 기준으로 시중에는 수많은 머리카락 영양제가 나와 있는데, 막'
-slug: '머리카락-영양제-추천-top5-2026년'
-categories: ['추천']
-tags: ['머리카락', '추천', '머리카락 영양제 추천', '영양제']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/07/31/1eee4a78.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/07/31/1eee4a78.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/07/31/1eee4a78.webp'
+date: 2026-07-31 15:25:28+09:00
+description: '제목: 머리카락 영양제 추천 BEST 3 — 닥터브라이언·솔가 2026년 7월 엄선 도입부 샤워할 때마다 머리카락이 빠지는
+  양이 늘어난 건 아닌지, 거울 속 내 머리숱이 예전 같지 않아 고민인 분들이 많습니다. 2026년 7월 기준으로 시중에는 수많은 머리카락 영양제가
+  나와 있는데, 막'
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/07/31/1eee4a78.webp
+slug: 머리카락-영양제-추천-top5-2026년
+tags:
+- 머리카락
+- 추천
+- 머리카락 영양제 추천
+- 영양제
+title: 머리카락 영양제 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

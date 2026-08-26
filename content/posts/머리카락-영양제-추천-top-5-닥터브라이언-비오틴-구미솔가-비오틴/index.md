@@ -1,16 +1,23 @@
 ---
-title: '머리카락 영양제 추천 TOP 5 닥터브라이언 비오틴 구미솔가 비오틴'
-date: 2026-08-03T12:19:46+09:00
-draft: true
-description: '아침에 거울을 보며 머리카락이 예전보다 가늘어졌다고 느낀 적이 있으신가요? 2026년 8월 기준으로 머리카락 영양제 시장에서 가장 많이 언급되는 제품은 닥터브라이언 비오틴 구미와 솔가 비오틴입니다. 두 제품의 함량, 가격, 복용 방식을 꼼꼼히 비교해 상황에 맞는 선택을 도와드립니다.'
-slug: '머리카락-영양제-추천-top-5-닥터브라이언-비오틴-구미솔가-비오틴'
-categories: ['추천']
-tags: ['추천', '머리카락 영양제 추천', '영양제', '머리카락']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/08/03/1eee4a78.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/08/03/1eee4a78.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/08/03/1eee4a78.webp'
+date: 2026-08-03 12:19:46+09:00
+description: 아침에 거울을 보며 머리카락이 예전보다 가늘어졌다고 느낀 적이 있으신가요? 2026년 8월 기준으로 머리카락 영양제 시장에서
+  가장 많이 언급되는 제품은 닥터브라이언 비오틴 구미와 솔가 비오틴입니다. 두 제품의 함량, 가격, 복용 방식을 꼼꼼히 비교해 상황에 맞는 선택을
+  도와드립니다.
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b0eb6fd0//2026/08/03/1eee4a78.webp
+slug: 머리카락-영양제-추천-top-5-닥터브라이언-비오틴-구미솔가-비오틴
+tags:
+- 추천
+- 머리카락 영양제 추천
+- 영양제
+- 머리카락
+title: 머리카락 영양제 추천 TOP 5 닥터브라이언 비오틴 구미솔가 비오틴
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

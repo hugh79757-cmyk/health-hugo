@@ -1,16 +1,24 @@
 ---
-title: '혈행 영양제 추천 바르통대웅 실속 선택 3종'
-date: 2026-08-03T10:47:19+09:00
-draft: true
-description: '최근 건강검진에서 혈행 수치를 확인한 뒤, 어떤 영양제를 골라야 할지 고민하는 분들이 많습니다. 2026년 8월 기준 쿠팡에서 판매량과 평점이 높은 혈행 관리 제품을 비교해 보았습니다. 은행잎 추출물부터 SOD 효소까지, 성분과 복용 방식을 꼼꼼히 따져야 후회 없는 선'
-slug: '혈행-영양제-추천-바르통대웅-실속-선택-3종'
-categories: ['추천']
-tags: ['혈행', '혈행 개선 영양제 추천', '영양제', '추천', '개선', '대웅']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/c3fe815f//2026/08/03/4fed7183.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/c3fe815f//2026/08/03/4fed7183.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/c3fe815f//2026/08/03/4fed7183.webp'
+date: 2026-08-03 10:47:19+09:00
+description: 최근 건강검진에서 혈행 수치를 확인한 뒤, 어떤 영양제를 골라야 할지 고민하는 분들이 많습니다. 2026년 8월 기준 쿠팡에서
+  판매량과 평점이 높은 혈행 관리 제품을 비교해 보았습니다. 은행잎 추출물부터 SOD 효소까지, 성분과 복용 방식을 꼼꼼히 따져야 후회 없는 선
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/c3fe815f//2026/08/03/4fed7183.webp
+slug: 혈행-영양제-추천-바르통대웅-실속-선택-3종
+tags:
+- 혈행
+- 혈행 개선 영양제 추천
+- 영양제
+- 추천
+- 개선
+- 대웅
+title: 혈행 영양제 추천 바르통대웅 실속 선택 3종
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

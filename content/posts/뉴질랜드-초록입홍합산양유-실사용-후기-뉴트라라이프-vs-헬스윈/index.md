@@ -1,16 +1,19 @@
 ---
-title: '뉴질랜드 초록입홍합산양유 실사용 후기 뉴트라라이프 vs 헬스윈'
-date: 2026-08-01T20:34:13+09:00
-draft: true
-description: 'The user wants a curated product recommendation article in Korean about New Zealand health products. Let me analyze the request:'
-slug: '뉴질랜드-초록입홍합산양유-실사용-후기-뉴트라라이프-vs-헬스윈'
-categories: ['추천']
-tags: ['뉴질랜드']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/7fe4778f//2026/08/01/7d9f5cd8.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/7fe4778f//2026/08/01/7d9f5cd8.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/7fe4778f//2026/08/01/7d9f5cd8.webp'
+date: 2026-08-01 20:34:13+09:00
+description: 'The user wants a curated product recommendation article in Korean about
+  New Zealand health products. Let me analyze the request:'
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/7fe4778f//2026/08/01/7d9f5cd8.webp
+slug: 뉴질랜드-초록입홍합산양유-실사용-후기-뉴트라라이프-vs-헬스윈
+tags:
+- 뉴질랜드
+title: 뉴질랜드 초록입홍합산양유 실사용 후기 뉴트라라이프 vs 헬스윈
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

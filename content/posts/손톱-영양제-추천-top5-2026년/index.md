@@ -1,16 +1,23 @@
 ---
-title: '손톱 영양제 추천 TOP5 (2026년)'
-date: 2026-07-31T16:38:35+09:00
-draft: true
-description: '<strong>손톱 영양제 추천 2026년 7월 — 포인드 비건 2주 개선 강화제 총정리</strong> 손톱 끝이 갈라지고, 표면이 얇아져서 조금만 힘을 줘도 구부러지거나 부러지는 경험이 있다면 손톱 영양제를 골라볼 시기입니다. 2026년 7월 현재 쿠팡 뷰티 카테고리에서 판매 순위 상위권을 차지한 손톱 영'
-slug: '손톱-영양제-추천-top5-2026년'
-categories: ['추천']
-tags: ['손톱', '손톱 영양제 추천', '영양제', '추천']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/07/31/16cf9617.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/07/31/16cf9617.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/07/31/16cf9617.webp'
+date: 2026-07-31 16:38:35+09:00
+description: <strong>손톱 영양제 추천 2026년 7월 — 포인드 비건 2주 개선 강화제 총정리</strong> 손톱 끝이 갈라지고,
+  표면이 얇아져서 조금만 힘을 줘도 구부러지거나 부러지는 경험이 있다면 손톱 영양제를 골라볼 시기입니다. 2026년 7월 현재 쿠팡 뷰티 카테고리에서
+  판매 순위 상위권을 차지한 손톱 영
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/07/31/16cf9617.webp
+slug: 손톱-영양제-추천-top5-2026년
+tags:
+- 손톱
+- 손톱 영양제 추천
+- 영양제
+- 추천
+title: 손톱 영양제 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

@@ -1,16 +1,23 @@
 ---
-title: '환절기 건강식품 추천 TOP5 (2026년)'
-date: 2026-07-31T20:33:24+09:00
-draft: true
-description: '> 환절기 건강식품 추천 2026년 7월 스펙 비교: 한국바이오웰 vs 네오 마누카 — 실속 구성 아침저녁으로는 선선하고 낮에는 여전히 더운 2026년 7월, 일교차가 큰 날씨가 이어지면서 목과 코가 건조해지고 컨디션 관리가 어려운 시기입니다. 환절기 건강식품을 고르기 전에 어떤 성분과'
-slug: '환절기-건강식품-추천-top5-2026년'
-categories: ['추천']
-tags: ['환절기', '추천', '건강식품', '환절기 건강식품 추천']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/abfdfe0c//2026/07/31/fb81b903.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/abfdfe0c//2026/07/31/fb81b903.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/abfdfe0c//2026/07/31/fb81b903.webp'
+date: 2026-07-31 20:33:24+09:00
+description: '> 환절기 건강식품 추천 2026년 7월 스펙 비교: 한국바이오웰 vs 네오 마누카 — 실속 구성 아침저녁으로는 선선하고
+  낮에는 여전히 더운 2026년 7월, 일교차가 큰 날씨가 이어지면서 목과 코가 건조해지고 컨디션 관리가 어려운 시기입니다. 환절기 건강식품을 고르기
+  전에 어떤 성분과'
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/abfdfe0c//2026/07/31/fb81b903.webp
+slug: 환절기-건강식품-추천-top5-2026년
+tags:
+- 환절기
+- 추천
+- 건강식품
+- 환절기 건강식품 추천
+title: 환절기 건강식품 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

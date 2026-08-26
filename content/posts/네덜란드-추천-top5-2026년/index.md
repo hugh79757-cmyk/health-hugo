@@ -1,16 +1,19 @@
 ---
-title: '네덜란드 추천 TOP5 (2026년)'
-date: 2026-08-01T16:31:18+09:00
-draft: true
-description: '우선 사용자 요청은 네덜란드 관련 상품 추천 글을 작성하는 것이다. 제품은 총 4개가 제공되었고, 각각의 링크와 이미지를 그대로 사용해야 한다. 글은 한국어로 작성해야 하며, AIDA 모델을 따라 퍼널 구조로 작성해야 한다.'
-slug: '네덜란드-추천-top5-2026년'
-categories: ['추천']
-tags: ['네덜란드']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/334bb7c5//2026/08/01/2219a4f4.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/334bb7c5//2026/08/01/2219a4f4.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/334bb7c5//2026/08/01/2219a4f4.webp'
+date: 2026-08-01 16:31:18+09:00
+description: 우선 사용자 요청은 네덜란드 관련 상품 추천 글을 작성하는 것이다. 제품은 총 4개가 제공되었고, 각각의 링크와 이미지를 그대로
+  사용해야 한다. 글은 한국어로 작성해야 하며, AIDA 모델을 따라 퍼널 구조로 작성해야 한다.
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/334bb7c5//2026/08/01/2219a4f4.webp
+slug: 네덜란드-추천-top5-2026년
+tags:
+- 네덜란드
+title: 네덜란드 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

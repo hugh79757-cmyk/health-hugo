@@ -1,16 +1,24 @@
 ---
-title: '스트레스 완화 영양제 추천 TOP5 (2026년)'
-date: 2026-08-01T10:41:41+09:00
-draft: true
-description: '<strong>스트레스 완화 영양제 TOP 5 추천 — 힐린·와이즐리 2026년 8월 후기</strong> 푹 자고 일어나도 개운하지 않고, 별일 아닌 일에도 마음이 조급해지는 날이 반복된다면 스트레스 관리가 필요한 시점입니다. 2026년 8월 기준으로 쿠팡 판매 순위 상위권에 오른 스트레스 완화 영양제 5종'
-slug: '스트레스-완화-영양제-추천-top5-2026년'
-categories: ['추천']
-tags: ['스트레스 완화 영양제 추천', '완화', '스트레스', '추천', '영양제']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/9a7cac88//2026/08/01/196b7b7c.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/9a7cac88//2026/08/01/196b7b7c.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/9a7cac88//2026/08/01/196b7b7c.webp'
+date: 2026-08-01 10:41:41+09:00
+description: <strong>스트레스 완화 영양제 TOP 5 추천 — 힐린·와이즐리 2026년 8월 후기</strong> 푹 자고 일어나도
+  개운하지 않고, 별일 아닌 일에도 마음이 조급해지는 날이 반복된다면 스트레스 관리가 필요한 시점입니다. 2026년 8월 기준으로 쿠팡 판매 순위
+  상위권에 오른 스트레스 완화 영양제 5종
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/9a7cac88//2026/08/01/196b7b7c.webp
+slug: 스트레스-완화-영양제-추천-top5-2026년
+tags:
+- 스트레스 완화 영양제 추천
+- 완화
+- 스트레스
+- 추천
+- 영양제
+title: 스트레스 완화 영양제 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

@@ -1,16 +1,23 @@
 ---
-title: '포인드 비건 손톱영양제 포함 2026년 8월 추천 2만원대 합격점 TOP 5'
-date: 2026-08-03T12:37:55+09:00
-draft: true
-description: '손톱이 얇아져서 조금만 부딪혀도 갈라지거나, 매니큐어를 바르면 얼마 지나지 않아 들뜨기 시작하는 경험 있으신가요? 2026년 8월 기준으로 손톱 영양제 시장은 리포좀 코팅, 비건 포뮬러, 세로줄 케어까지 선택지가 매우 다양해졌습니다. 가격대가 1만원 초반에서 2만원 후반에 걸친 5개 제'
-slug: '포인드-비건-손톱영양제-포함-2026년-8월-추천-2만원대-합격점-top-5'
-categories: ['추천']
-tags: ['추천', '손톱', '영양제', '손톱 영양제 추천']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/08/03/16cf9617.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/08/03/16cf9617.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/08/03/16cf9617.webp'
+date: 2026-08-03 12:37:55+09:00
+description: 손톱이 얇아져서 조금만 부딪혀도 갈라지거나, 매니큐어를 바르면 얼마 지나지 않아 들뜨기 시작하는 경험 있으신가요? 2026년
+  8월 기준으로 손톱 영양제 시장은 리포좀 코팅, 비건 포뮬러, 세로줄 케어까지 선택지가 매우 다양해졌습니다. 가격대가 1만원 초반에서 2만원 후반에
+  걸친 5개 제
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b09b54c5//2026/08/03/16cf9617.webp
+slug: 포인드-비건-손톱영양제-포함-2026년-8월-추천-2만원대-합격점-top-5
+tags:
+- 추천
+- 손톱
+- 영양제
+- 손톱 영양제 추천
+title: 포인드 비건 손톱영양제 포함 2026년 8월 추천 2만원대 합격점 TOP 5
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

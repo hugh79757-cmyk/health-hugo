@@ -1,16 +1,20 @@
 ---
-title: '고려은단 추천 TOP5 (2026년)'
-date: 2026-08-01T13:31:06+09:00
-draft: true
-description: 'The user wants me to write a blog post in Korean about vitamin C products, with "고려은단" (Korea Eundan) as the keyword, but the provided products are mostly from'
-slug: '고려은단-추천-top5-2026년'
-categories: ['추천']
-tags: ['고려은단']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/1e6c51e8//2026/08/01/c17ea0e6.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/1e6c51e8//2026/08/01/c17ea0e6.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/1e6c51e8//2026/08/01/c17ea0e6.webp'
+date: 2026-08-01 13:31:06+09:00
+description: The user wants me to write a blog post in Korean about vitamin C products,
+  with "고려은단" (Korea Eundan) as the keyword, but the provided products are mostly
+  from
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/1e6c51e8//2026/08/01/c17ea0e6.webp
+slug: 고려은단-추천-top5-2026년
+tags:
+- 고려은단
+title: 고려은단 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

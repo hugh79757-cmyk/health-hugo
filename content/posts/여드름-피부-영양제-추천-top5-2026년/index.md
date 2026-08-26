@@ -1,16 +1,23 @@
 ---
-title: '여드름 피부 영양제 추천 TOP5 (2026년)'
-date: 2026-07-31T17:59:00+09:00
-draft: true
-description: '거울을 볼 때마다 볼과 이마에 올라온 여드름 때문에 화장품부터 클렌저까지 바꿔봤지만, 좀처럼 나아지지 않았던 경험 있으신가요. 2026년 7월 기준으로 여드름 피부에 도움이 되는 영양제를 성분과 분량, 가격까지 직접 비교해서 정리했습니다.'
-slug: '여드름-피부-영양제-추천-top5-2026년'
-categories: ['추천']
-tags: ['여드름', '추천', '여드름 피부 영양제 추천', '영양제', '피부']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/61f0f75c//2026/07/31/97cbf4ed.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/61f0f75c//2026/07/31/97cbf4ed.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/61f0f75c//2026/07/31/97cbf4ed.webp'
+date: 2026-07-31 17:59:00+09:00
+description: 거울을 볼 때마다 볼과 이마에 올라온 여드름 때문에 화장품부터 클렌저까지 바꿔봤지만, 좀처럼 나아지지 않았던 경험 있으신가요.
+  2026년 7월 기준으로 여드름 피부에 도움이 되는 영양제를 성분과 분량, 가격까지 직접 비교해서 정리했습니다.
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/61f0f75c//2026/07/31/97cbf4ed.webp
+slug: 여드름-피부-영양제-추천-top5-2026년
+tags:
+- 여드름
+- 추천
+- 여드름 피부 영양제 추천
+- 영양제
+- 피부
+title: 여드름 피부 영양제 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

@@ -1,16 +1,24 @@
 ---
-title: '눈건강글루타치온 추천 누터스가든보뚜 실사용 후기'
-date: 2026-07-29T13:32:15+09:00
-draft: true
-description: '2026년 7월, 눈 건강을 위해 글루타치온 관련 제품을 찾는 분들이 많아졌습니다. 글루타치온은 항산화 작용으로 눈의 피로를 완화하고, 루테인과 함께 복용하면 시력 보호에 도움을 줄 수 있습니다. 하지만 시중에 다양한 제품이 출시되어 어떤 것을 선택해야 할지 고민되실 텐데요.  직접 사'
-slug: '눈건강글루타치온-추천-누터스가든보뚜-실사용-후기'
-categories: ['추천']
-tags: ['눈건강글루타치온', '보뚜', 'ARK', '누터스가든', '코스팜']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/0edf8fc5//2026/07/29/e6cdd9c9.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/0edf8fc5//2026/07/29/e6cdd9c9.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/0edf8fc5//2026/07/29/e6cdd9c9.webp'
+date: 2026-07-29 13:32:15+09:00
+description: 2026년 7월, 눈 건강을 위해 글루타치온 관련 제품을 찾는 분들이 많아졌습니다. 글루타치온은 항산화 작용으로 눈의 피로를
+  완화하고, 루테인과 함께 복용하면 시력 보호에 도움을 줄 수 있습니다. 하지만 시중에 다양한 제품이 출시되어 어떤 것을 선택해야 할지 고민되실
+  텐데요.  직접 사
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/0edf8fc5//2026/07/29/e6cdd9c9.webp
+slug: 눈건강글루타치온-추천-누터스가든보뚜-실사용-후기
+tags:
+- 눈건강글루타치온
+- 보뚜
+- ARK
+- 누터스가든
+- 코스팜
+title: 눈건강글루타치온 추천 누터스가든보뚜 실사용 후기
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

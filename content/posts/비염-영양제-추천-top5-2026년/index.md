@@ -1,16 +1,23 @@
 ---
-title: '비염 영양제 추천 TOP5 (2026년)'
-date: 2026-08-01T07:33:21+09:00
-draft: true
-description: '2026년 8월, 아침마다 코가 막히고 재채기가 반복되는 환절기입니다. 콧물과 코막힘으로 고생하는 분들이 꾸준히 찾는 비염 영양제는 제품별로 성분과 가격 차이가 커서 고르기 어렵습니다. 알레르기 비염과 만성 비염은 증상 양상이 다르니 본인의 상태를 먼저 떠올린 뒤, 2026년 8월 현재'
-slug: '비염-영양제-추천-top5-2026년'
-categories: ['추천']
-tags: ['비염', '추천', '영양제', '비염 영양제 추천']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/f786f1ff//2026/08/01/842ef2f6.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/f786f1ff//2026/08/01/842ef2f6.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/f786f1ff//2026/08/01/842ef2f6.webp'
+date: 2026-08-01 07:33:21+09:00
+description: 2026년 8월, 아침마다 코가 막히고 재채기가 반복되는 환절기입니다. 콧물과 코막힘으로 고생하는 분들이 꾸준히 찾는 비염
+  영양제는 제품별로 성분과 가격 차이가 커서 고르기 어렵습니다. 알레르기 비염과 만성 비염은 증상 양상이 다르니 본인의 상태를 먼저 떠올린 뒤,
+  2026년 8월 현재
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/f786f1ff//2026/08/01/842ef2f6.webp
+slug: 비염-영양제-추천-top5-2026년
+tags:
+- 비염
+- 추천
+- 영양제
+- 비염 영양제 추천
+title: 비염 영양제 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>
