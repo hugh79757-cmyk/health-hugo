@@ -1,0 +1,1 @@
+{"project": "health-hugo-content-enrichment", "phase": "planning", "model": "sonnet", "researchMode": "off", "verify": true, "parallel": false, "autonomous": false, "focus": "incremental content enrichment pipeline"}
