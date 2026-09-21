@@ -33,7 +33,15 @@
 | 4-phase 4-week timeline | Manageable scope, gate criteria at each phase | Locked |
 
 ### Open Questions
-- [ ] 식약처 public API quota and exact schema — needs Phase 1 investigation
+- [x] 식약처 API 키 확인 — DATA_GO_KR_API_KEY 2개 존재
+  - `/Users/twinssn/Projects/5000/.env`: `d7f94cfd...` → **DEAD** (403) — 주석 처리됨
+  - `/Users/twinssn/.env.common`: `1a7bd07d...` → **WORKING** (200) — shell env에서 사용 중
+  - Shell env `DATA_GO_KR_API_KEY=1a7bd07d...` (zshrc에서 .env.common 로드)
+- [ ] MFDS 건강기능식품 API 엔드포인트 — 공공데이터포털에서 서비스 코드 미확정
+  - 9개 경로 테스트 → 모두 400 NO_OPENAPI_SERVICE_ERROR
+  - `www.openapi.data.go.kr` NXDOMAIN, `openapi.data.go.kr` → 301 → 실패
+  - `apis.data.go.kr` 연결 OK (400=연결성 확인)
+  - **Phase 1 Task 1**: MFDS 서비스 코드 발견 후 엔드포인트 확정 필요
 - [ ] Naver Shopping API quota for product detail enrichment (top 5 only)
 - [ ] Which keywords map to which health conditions — needs manual curation start
 
