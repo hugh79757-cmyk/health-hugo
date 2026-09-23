@@ -1,0 +1,53 @@
+# Compass Mode Definitions
+# Independent writing mode config for health-hugo compass/
+
+modes:
+  ingredient_dive:
+    name: "성분 심층 해설"
+    description: "하나의 건강 기능 원료를 깊이 파고드는 해설형 콘텐츠"
+    target_length: 2500-3500
+    h2_structure:
+      - "title"
+      - "이 원료의 핵심"
+      - "성분 심층 해설"
+      - "제품 비교"
+      - "복용 가이드"
+      - "실구매 포인트"
+      - "closing"
+
+  symptom_care:
+    name: "상황별 추천"
+    description: "특정 증상/상황에 따른 제품 추천 콘텐츠"
+    target_length: 2500-3500
+    h2_structure:
+      - "title"
+      - "이런 증상이 있는 분께"
+      - "원인과 배경"
+      - "상황별 추천 제품"
+      - "복용 가이드"
+      - "생활습관 체크리스트"
+      - "closing"
+
+  versus:
+    name: "제품 비교"
+    description: "2-3개 제품을 대조 비교하는 콘텐츠"
+    target_length: 2500-3500
+    h2_structure:
+      - "title"
+      - "한눈에 비교"
+      - "제품 A 상세"
+      - "제품 B 상세"
+      - "어떤 제품이 맞을까"
+      - "실구매 포인트"
+      - "closing"
+
+# Rollout weights (sum = 1.0)
+weights:
+  phase1:  # Weeks 1-2
+    comparison: 0.90
+    ingredient_dive: 0.05
+    symptom_care: 0.05
+  phase2:  # Weeks 3+
+    comparison: 0.70
+    ingredient_dive: 0.15
+    symptom_care: 0.15
